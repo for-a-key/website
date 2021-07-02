@@ -12,7 +12,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   copyright: "© forakey"
   title: For a Key
   description: "Make life more easier"
